@@ -1,4 +1,3 @@
-// eslint-disable-next-line no-unused-vars
 const greet = 'hola mundo';
 
 const arr = [1, 2, 3];
